@@ -2,7 +2,7 @@
 A Gorilla Tag mod that reactivates the Debug UI used by the developers of the game, useful for mod development. 
 
 ## NOTE:
-I will not maintain this mod, considering it's literally three lines of code it probably won't break but in case it does: I give full permission to anyone to fix it and republish the fix.
+Lofiat will not maintain this mod, So I will, thats why its a fork, Full permission was given to re-publish
 
 ## Usage:
-Press the secondary button on your left controller ((Y) on quest) to change debug mode. There are three modes, basic, logging, and inactive, all pretty self explainatory.
+Press the secondary button on your left controller to change debug mode. There are three modes, basic, logging, and inactive, all pretty self explainatory.
