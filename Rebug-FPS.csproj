@@ -18,14 +18,41 @@
     <Reference Include="BepInEx.Harmony">
       <HintPath>$(BepInExAssemblyPath)\BepInEx.Harmony.dll</HintPath>
     </Reference>
+    <Reference Include="Meta.XR.BuildingBlocks">
+      <HintPath>$(GameAssemblyPath)\Meta.XR.BuildingBlocks.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>$(GameAssemblyPath)\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.CoreUtils">
+      <HintPath>$(GameAssemblyPath)\Unity.XR.CoreUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Interaction.Toolkit">
+      <HintPath>$(GameAssemblyPath)\Unity.XR.Interaction.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Management">
+      <HintPath>$(GameAssemblyPath)\Unity.XR.Management.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Oculus">
+      <HintPath>$(GameAssemblyPath)\Unity.XR.Oculus.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.OpenVR">
+      <HintPath>$(GameAssemblyPath)\Unity.XR.OpenVR.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>$(GameAssemblyPath)\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>$(GameAssemblyPath)\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubsystemsModule">
+      <HintPath>$(GameAssemblyPath)\UnityEngine.SubsystemsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+      <HintPath>$(GameAssemblyPath)\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+      <HintPath>$(GameAssemblyPath)\UnityEngine.XRModule.dll</HintPath>
     </Reference>
   </ItemGroup>
 
